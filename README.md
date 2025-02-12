@@ -1,1 +1,1 @@
-# JunioResearcher
+# Paper++
